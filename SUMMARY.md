@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [简介](README.md)
 * [编程探索](编程探索/README.md)
     * [编程是什么](编程探索/编程是什么.md)
     * [编程语言是什么](编程探索/编程语言是什么.md)
