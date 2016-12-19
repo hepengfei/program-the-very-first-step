@@ -18,5 +18,5 @@
 
 你可扫码关注我的公众号**hackerful**，与我进行沟通交流。本书中会有一些习题和练习，你做完成后可以发到我的公众号，我会定期抽部分进行批注和建议。你也有机会获得一对一指导。
 
-![](/assets/qrcode_for_gh_ad2cad8452ce_258.jpg)
+![](/assets/qrcode-hackerful-wx.jpg)
 
